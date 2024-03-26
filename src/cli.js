@@ -66,3 +66,6 @@ async function processaTexto(argumentos) {
 }
 
 processaTexto(caminho);
+
+
+//PINDAMINHANGABA
